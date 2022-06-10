@@ -34,6 +34,7 @@ module.exports = {
         "@typescript-eslint/no-var-requires": 0,
         "no-undef": 0,
         "import/no-anonymous-default-export": 0,
-        "eslint-disable-next-line": 0
+        "@eslint-disable-next-line": 0,
+        "@typescript-eslint/no-non-null-assertion": 0
     }
 }

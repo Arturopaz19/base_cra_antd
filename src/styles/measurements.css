@@ -1,0 +1,8 @@
+:root {
+    /* common measurements */
+    --xl-measure: 3em;
+    --lg-measure: 2em;
+    --md-measure: 1.5em;
+    --sm-measure: 1em;
+    --xs-measure: 0.5em;
+}

@@ -6,7 +6,7 @@
   
 @font-face {
     font-family: 'Roboto';
-    src: local('Roboto'), url(./fonts/Roboto/Gilroy-Medium.ttf) format('truetype');
+    src: local('Roboto'), url(./fonts/Roboto/Roboto-Medium.ttf) format('truetype');
     font-display: swap;
 }
   

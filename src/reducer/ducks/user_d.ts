@@ -1,5 +1,6 @@
 // import { Store } from "redux";
 import Schema, { ActionI } from "reducer/schema";
+import { UserI } from "reducer/schema/user_s";
 
 /*
   constants
@@ -32,7 +33,7 @@ const initialState = Schema.User;
 /*
   reducer
 */
-export default function reducer(state=initialState, action: ActionI){
+export default function reducer(state:UserI=initialState, action: ActionI){
     const { type } = action;
     switch (type) {
         default:
